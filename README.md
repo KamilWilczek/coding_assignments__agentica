@@ -155,6 +155,7 @@ Things I skipped due to time:
 - Real-time updates (new tickets don't appear without a page refresh)
 - Ticket comments or attachments
 - Docker / Docker Compose setup
+- Tests
 
 If I had another three hours, I'd prioritise in this order:
 
